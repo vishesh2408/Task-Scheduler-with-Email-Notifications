@@ -45,5 +45,4 @@ backend/
 - `PUT /api/tasks/:id` — Update a task
 - `DELETE /api/tasks/:id` — Delete a task
 
-## License
-MIT
+

@@ -92,5 +92,4 @@ npm run dev
     *   **Success:** Task moves to "Completed" tab.
     *   **Failure:** Task moves to "Missed" tab.
 
-## 📝 License
-This project is open-source and available under the MIT License.
+
